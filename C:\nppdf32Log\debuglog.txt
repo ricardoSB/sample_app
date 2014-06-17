@@ -1,2 +1,583 @@
 NPP_GetValue is called
 NPP_GetValue is called
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_Initialize : called
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_NewStream : called for instance b75522b4, stream b751b2e0, URL http://www.eii.ulpgc.es/moodle/pluginfile.php/1307/mod_resource/content/27/DAN_22_RoR_Tunning_Rails_Applications_Caching_and_Performance.pdf, stream size 1299866, seekable 1
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 0, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 16384, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 32768, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 49152, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 65536, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 81920, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 98304, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 114688, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 131072, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 147456, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 163840, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 180224, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 196608, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 212992, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 229376, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 245760, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 262144, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 278528, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 294912, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 311296, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 327680, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 344064, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 360448, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 376832, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 393216, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 409600, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 425984, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 442368, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 458752, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 475136, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 491520, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 507904, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 524288, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 540672, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 557056, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 573440, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 589824, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 606208, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 622592, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 638976, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 655360, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 671744, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 688128, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 704512, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 720896, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 737280, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 753664, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 770048, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 786432, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 802816, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 819200, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 835584, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 851968, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 868352, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 884736, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 901120, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 917504, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 933888, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 950272, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 966656, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 983040, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 999424, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1015808, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1032192, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1048576, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1064960, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1081344, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1097728, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1114112, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1130496, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1146880, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1163264, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1179648, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1196032, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1212416, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1228800, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1245184, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1261568, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1277952, length = 16384, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1294336, length = 5530, streamlength = 1299866
+Trying for window attributes
+Trying for query tree
+NPP_DestroyStream : called for instance b75522b4 and stream b751b2e0
+NPP_Destroy : called for instance b75522b4
+NPP_Destroy : called for instance b75522b4
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_Shutdown : called
+
+
+
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_Initialize : called
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_NewStream : called for instance b75522b4, stream b751b2e0, URL http://www.eii.ulpgc.es/moodle/pluginfile.php/1307/mod_resource/content/28/caching-and-perfomance.pdf, stream size 1304787, seekable 1
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 0, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 16384, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 32768, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 49152, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 65536, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 81920, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 98304, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 114688, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 131072, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 147456, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 163840, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 180224, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 196608, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 212992, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 229376, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 245760, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 262144, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 278528, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 294912, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 311296, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 327680, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 344064, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 360448, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 376832, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 393216, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 409600, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 425984, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 442368, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 458752, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 475136, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 491520, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 507904, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 524288, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 540672, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 557056, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 573440, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 589824, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 606208, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 622592, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 638976, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 655360, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 671744, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 688128, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 704512, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 720896, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 737280, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 753664, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 770048, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 786432, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 802816, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 819200, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 835584, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 851968, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 868352, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 884736, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 901120, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 917504, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 933888, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 950272, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 966656, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 983040, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 999424, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1015808, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1032192, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1048576, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1064960, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1081344, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1097728, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1114112, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1130496, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1146880, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1163264, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1179648, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1196032, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1212416, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1228800, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1245184, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1261568, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1277952, length = 16384, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_Write : called for instance b75522b4, stream b751b2e0, offset = 1294336, length = 10451, streamlength = 1304787
+Trying for window attributes
+Trying for query tree
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_SetWindow : called for instance b75522b4
+Window from browser - 85983233
+NPP_DestroyStream : called for instance b75522b4 and stream b751b2e0
+NPP_Destroy : called for instance b75522b4
+NPP_Shutdown : called
+
+
+
